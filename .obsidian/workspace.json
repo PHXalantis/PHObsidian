@@ -1,0 +1,158 @@
+{
+  "main": {
+    "id": "d61e715b4c9a1ba6",
+    "type": "split",
+    "children": [
+      {
+        "id": "a7c758b882de8ecb",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "254bf50f97049838",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Suprema/Biostar 2/BS2.md",
+                "mode": "source",
+                "source": false
+              }
+            }
+          }
+        ]
+      }
+    ],
+    "direction": "vertical"
+  },
+  "left": {
+    "id": "3fc0286943d64eb2",
+    "type": "split",
+    "children": [
+      {
+        "id": "1541c33f879290e6",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "52c7b17d8c8bfbdf",
+            "type": "leaf",
+            "state": {
+              "type": "file-explorer",
+              "state": {
+                "sortOrder": "alphabetical"
+              }
+            }
+          },
+          {
+            "id": "8a1a1815e492df40",
+            "type": "leaf",
+            "state": {
+              "type": "search",
+              "state": {
+                "query": "",
+                "matchingCase": false,
+                "explainSearch": false,
+                "collapseAll": false,
+                "extraContext": false,
+                "sortOrder": "alphabetical"
+              }
+            }
+          },
+          {
+            "id": "47685b0797621a31",
+            "type": "leaf",
+            "state": {
+              "type": "bookmarks",
+              "state": {}
+            }
+          }
+        ]
+      }
+    ],
+    "direction": "horizontal",
+    "width": 300
+  },
+  "right": {
+    "id": "4dcc34c056187c64",
+    "type": "split",
+    "children": [
+      {
+        "id": "4e8588d16dd7256b",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "fd6f20d924391c1c",
+            "type": "leaf",
+            "state": {
+              "type": "backlink",
+              "state": {
+                "file": "Suprema/Biostar 2/BS2.md",
+                "collapseAll": false,
+                "extraContext": false,
+                "sortOrder": "alphabetical",
+                "showSearch": false,
+                "searchQuery": "",
+                "backlinkCollapsed": false,
+                "unlinkedCollapsed": true
+              }
+            }
+          },
+          {
+            "id": "694dfe74eddeaf3a",
+            "type": "leaf",
+            "state": {
+              "type": "outgoing-link",
+              "state": {
+                "file": "Suprema/Biostar 2/BS2.md",
+                "linksCollapsed": false,
+                "unlinkedCollapsed": true
+              }
+            }
+          },
+          {
+            "id": "03e4042e281178d6",
+            "type": "leaf",
+            "state": {
+              "type": "tag",
+              "state": {
+                "sortOrder": "frequency",
+                "useHierarchy": true
+              }
+            }
+          },
+          {
+            "id": "eaf1f84a096f466f",
+            "type": "leaf",
+            "state": {
+              "type": "outline",
+              "state": {
+                "file": "Suprema/Biostar 2/BS2.md"
+              }
+            }
+          }
+        ]
+      }
+    ],
+    "direction": "horizontal",
+    "width": 300,
+    "collapsed": true
+  },
+  "left-ribbon": {
+    "hiddenItems": {
+      "switcher:Open quick switcher": false,
+      "graph:Open graph view": false,
+      "canvas:Create new canvas": false,
+      "daily-notes:Open today's daily note": false,
+      "templates:Insert template": false,
+      "command-palette:Open command palette": false
+    }
+  },
+  "active": "254bf50f97049838",
+  "lastOpenFiles": [
+    "().md",
+    "Suprema/Biostar 2/BS2.md",
+    "Welcome.md",
+    "Suprema/Biostar 2",
+    "Untitled",
+    "Suprema"
+  ]
+}
