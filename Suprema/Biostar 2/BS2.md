@@ -45,3 +45,6 @@ You'll need to setup the wires from the __installation guide__ of the used devic
 You can make general configurations for doors using groups on the BS2.
 
 ---
+## Other info
+
+You can check the status of doors on the **monitoring tab**.
